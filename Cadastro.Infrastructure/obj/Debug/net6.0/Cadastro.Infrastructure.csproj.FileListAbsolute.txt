@@ -1,0 +1,12 @@
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\bin\Debug\net6.0\Cadastro.Infrastructure.deps.json
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\bin\Debug\net6.0\Cadastro.Infrastructure.dll
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\bin\Debug\net6.0\Cadastro.Infrastructure.pdb
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.AssemblyInfo.cs
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.dll
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\refint\Cadastro.Infrastructure.dll
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\Cadastro.Infrastructure.pdb
+C:\Users\natha\source\repos\Cadastro\Cadastro.Infrastructure\obj\Debug\net6.0\ref\Cadastro.Infrastructure.dll
